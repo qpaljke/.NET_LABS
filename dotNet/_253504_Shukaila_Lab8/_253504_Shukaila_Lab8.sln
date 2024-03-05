@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_253504_Shukaila_Lab8", "_253504_Shukaila_Lab8\_253504_Shukaila_Lab8.csproj", "{49CDE8DA-A2C2-46D2-A32E-17E574233055}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lib", "Lib\Lib.csproj", "{E56C90AD-0064-405C-8EBC-6AB2F991590F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{49CDE8DA-A2C2-46D2-A32E-17E574233055}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49CDE8DA-A2C2-46D2-A32E-17E574233055}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49CDE8DA-A2C2-46D2-A32E-17E574233055}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49CDE8DA-A2C2-46D2-A32E-17E574233055}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E56C90AD-0064-405C-8EBC-6AB2F991590F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E56C90AD-0064-405C-8EBC-6AB2F991590F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E56C90AD-0064-405C-8EBC-6AB2F991590F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E56C90AD-0064-405C-8EBC-6AB2F991590F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {44AAA76E-6A6F-4411-AC4E-EAFF87D612BA}
+	EndGlobalSection
+EndGlobal
